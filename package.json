@@ -17,6 +17,9 @@
 		"test": "jake test",
 		"prepublish": "jake"
 	},
-	"keywords": ["gis", "map"],
+	"keywords": [
+		"gis",
+		"map"
+	],
 	"license": "MIT"
 }
